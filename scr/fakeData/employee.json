@@ -2,26 +2,26 @@
     "employees": [
         {
             "id": "0",
-            "nombre": "José",
-            "edad": 30,
+            "email": "jhidalgo094@gmail.com",
+            "password": 30,
             "cargo": "Cocinero"
         },
         {
             "id": "1",
-            "nombre": "Luis",
-            "edad": 26,
+            "email": "Luis",
+            "password": 26,
             "cargo": "Conserje"
         },
         {
             "id": "2",
-            "nombre": "Angélica",
-            "edad": 27,
+            "email": "Angélica",
+            "password": 27,
             "cargo": "Cajera"
         },
         {
             "id": "3",
-            "nombre": "Ramón",
-            "edad": 36,
+            "email": "Ramón",
+            "password": 36,
             "cargo": "Repartidor"
         }
     ]

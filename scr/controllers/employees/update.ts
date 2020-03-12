@@ -10,6 +10,6 @@ export default (req: Request, res: Response)=>{
         return res.sendStatus(404);
     }
 
-    employees.splice(index,1,employee)
+    employees.splice(index,1,employee);
     res.status(200).json(employee);
 }

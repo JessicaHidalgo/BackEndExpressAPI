@@ -4,6 +4,7 @@ import deleteEmployee from '../controllers/employees/delete';
 import listEmployees from '../controllers/employees/list';
 import findByIds from '../controllers/employees/findbyId';
 import updateEmployees from '../controllers/employees/update';
+import login from '../controllers/employees/login';
 
 const router : Router = express.Router();
 
@@ -16,6 +17,8 @@ router.get('/list', listEmployees);
 router.get('/find/:id',findByIds);
 
 router.post('/update', updateEmployees);
+
+router.post('/login',login);
 
 
 

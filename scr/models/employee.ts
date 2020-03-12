@@ -1,6 +1,6 @@
 export type Employee =  {
     id: string;
-    "nombre": string;
-            "edad": number;
+    "email": string;
+            "password": number;
             "cargo": string;
 }

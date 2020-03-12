@@ -1,0 +1,30 @@
+{
+    "task": [
+        {
+            "id": "0",
+            "title": "jhidalgo094@gmail.com",
+            "description": 30,
+            "startDate": "Cocinero",
+            "endDate":, 
+            "email":"jhidalgo094@gmail"
+        },
+        {
+            "id": "1",
+            "email": "Luis",
+            "password": 26,
+            "cargo": "Conserje"
+        },
+        {
+            "id": "2",
+            "email": "Angélica",
+            "password": 27,
+            "cargo": "Cajera"
+        },
+        {
+            "id": "3",
+            "email": "Ramón",
+            "password": 36,
+            "cargo": "Repartidor"
+        }
+    ]
+}
